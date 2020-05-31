@@ -1,0 +1,27 @@
+footer{
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+    color: white;
+}
+#footer a{
+    color: white;
+}
+#header img{
+    height: 50px;
+}
+#image{
+    max-height: 712px;
+}
+#carousel{
+    position: relative;
+}
+#casousel .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+#conte{
+    background-color: #343a40;
+    color: white;
+}
